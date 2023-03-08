@@ -115,80 +115,13 @@ Replace 'database-name' with the name of the database you created in step 3.
 
 ```md
 In the terminal, run the command: npm start.
-This will start the application and you should see the message "Server running on port 3001".
-Open your web browser and navigate to http://localhost:3001 to use the application.
+This will start the application in the terminal.
 ```
 
 ## Usage
 
-- MySQL Employee Tracker is a web application that allows you to manage your employees and departments. Here's how you can use it:
+- MySQL Employee Tracker is a web application that allows you to manage your employees and departments. 
 
-- View All Employees:
-
-```md
-Click on the "View All Employees" button on the home page.
-You will be directed to a page that displays a table of all employees in the database.
-```
-
-- Add Employee:
-
-```md
-Click on the "Add Employee" button on the home page.
-Fill out the form with the employee's first name, last name, role, and manager (if applicable).
-Click the "Submit" button to add the employee to the database.
-```
-
-- Update Employee:
-
-```md
-Click on the "View All Employees" button on the home page.
-Click on the "Edit" button next to the employee you want to update.
-Update the employee's information in the form.
-Click the "Submit" button to save the changes to the database.
-```
-
-- Delete Employee:
-
-```md
-Click on the "View All Employees" button on the home page.
-Click on the "Delete" button next to the employee you want to delete.
-Confirm the deletion by clicking "Yes" in the confirmation prompt.
-```
-
-- View All Departments:
-
-```md
-Click on the "View All Departments" button on the home page.
-You will be directed to a page that displays a table of all departments in the database.
-```
-
-- Add Department:
-
-```md
-Click on the "Add Department" button on the home page.
-Enter the department's name in the form.
-Click the "Submit" button to add the department to the database.
-```
-
-- Update Department:
-
-```md
-Click on the "View All Departments" button on the home page.
-Click on the "Edit" button next to the department you want to update.
-
-- Update the department's information in the form.
-  Click the "Submit" button to save the changes to the database.
-```
-
-- Delete Department:
-
-```md
-Click on the "View All Departments" button on the home page.
-Click on the "Delete" button next to the department you want to delete.
-Confirm the deletion by clicking "Yes" in the confirmation prompt.
-```
-
-- With the MySQL Employee Tracker, you can easily manage your employees and departments with just a few clicks.
 
 ## Resources & Credit
 
